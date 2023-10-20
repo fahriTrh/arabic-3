@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap');
+
+body {
+    font-family: 'Noto Nskh', sans-serif;
+    background-color: #fff;
+}
+
+form {
+    width: 500px;
+    height: auto;
+    margin: 4rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .8rem;
+}
+
+git push --set-upstream origin master
+
+input {
+    border-color: white;
+    border: 1px solid dodgerblue;
+    padding: 1rem 1.5rem;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 1rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.wrap {
+    width: auto;
+    height: auto;
+    padding: 1.3rem;
+    margin: 3rem auto;
+}
+
+.result {
+    margin-top: 4rem;
+    text-align: end;
+}
