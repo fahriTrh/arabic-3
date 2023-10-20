@@ -15,8 +15,6 @@ form {
     gap: .8rem;
 }
 
-git push --set-upstream origin master
-
 input {
     border-color: white;
     border: 1px solid dodgerblue;
@@ -35,7 +33,7 @@ button {
 }
 
 .wrap {
-    width: auto;
+    width: 600px;
     height: auto;
     padding: 1.3rem;
     margin: 3rem auto;
