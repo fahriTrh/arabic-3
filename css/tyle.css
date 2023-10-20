@@ -42,4 +42,5 @@ button {
 .result {
     margin-top: 4rem;
     text-align: end;
+    line-height: 3rem;
 }
